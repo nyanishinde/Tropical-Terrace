@@ -13,11 +13,15 @@
     <string name="Credentials">Please enter credentials</string>
     <string name="EmailHint">Email</string>
     <string name="PasswordHint">Password</string>
+    <string name="ReEnterPassword">Re-enter password</string>
     <string name="ForgetPassword">Forget Password?</string>
     <string name="Signin">Sign in</string>
-    <string name="Signin_with">Or sign in with</string>
-    <string name="Signin_with_google">Sign in with Google</string>
-    <string name="Dont_have_an_acc">Don\'t have an account?</string>
+    <string name="SigninWith">Or sign in with</string>
+    <string name="SigninWithGoogle">Sign in with Google</string>
+    <string name="DontHaveAnAcc">Don\'t have an account?</string>
     <string name="Signup">Sign up</string>
     <string name="SkipForNow">Skip for now</string>
+    <string name="Continue">Continue</string>
+    <string name="SignupWithGoogle">Sign up with Google</string>
+    <string name="or">Or</string>
 </resources>
