@@ -11,4 +11,13 @@
     <string name="getStarted_subtitle">Bringing the Tropics Home.</string>
     <string name="getStartedDescription">Discover Tropical Terrace – your go-to for tropical plants. Bring the tropics home with ease. Shop now!</string>
     <string name="Credentials">Please enter credentials</string>
+    <string name="EmailHint">Email</string>
+    <string name="PasswordHint">Password</string>
+    <string name="ForgetPassword">Forget Password?</string>
+    <string name="Signin">Sign in</string>
+    <string name="Signin_with">Or sign in with</string>
+    <string name="Signin_with_google">Sign in with Google</string>
+    <string name="Dont_have_an_acc">Don\'t have an account?</string>
+    <string name="Signup">Sign up</string>
+    <string name="SkipForNow">Skip for now</string>
 </resources>
