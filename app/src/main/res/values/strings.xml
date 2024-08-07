@@ -14,7 +14,7 @@
     <string name="EmailHint">Email</string>
     <string name="PasswordHint">Password</string>
     <string name="ReEnterPassword">Re-enter password</string>
-    <string name="ForgetPassword">Forget Password?</string>
+    <string name="ForgetPassword">Forget password?</string>
     <string name="Signin">Sign in</string>
     <string name="SigninWith">Or sign in with</string>
     <string name="SigninWithGoogle">Sign in with Google</string>
